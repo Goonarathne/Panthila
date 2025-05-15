@@ -5,16 +5,20 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=goonarathne" alt="goonarathne" />
-  </a>
+  <img 
+    src="https://img.freepik.com/premium-photo/hacker-wearing-mask-with-digital-effects-dark-background-concept-hacker-mask-digital_660230-183551.jpg" 
+    alt="Avatar" 
+    width=200" 
+    height="200" 
+    style="border-radius: 10%; display: block; object-fit: cover;" 
+  />
 </p>
 
-<br>
-
-<p align="center" >
+<p align="center">
+  <!-- Profile Views Image -->
   <img src="https://komarev.com/ghpvc/?username=goonarathne&label=Profile%20views&color=0e75b6&style=flat" alt="goonarathne" />
 </p>
+
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
