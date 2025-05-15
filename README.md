@@ -42,12 +42,12 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee/goonarathne"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee/goonarathne" /></a></p><br><br>
+<p align="center">><a href="https://www.buymeacoffee.com/buymeacoffee/goonarathne"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee/goonarathne" /></a></p><br><br>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goonarathne&show_icons=true&locale=en&layout=compact" alt="goonarathne" /></p>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=goonarathne&show_icons=true&locale=en" alt="goonarathne" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goonarathne" alt="goonarathne" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goonarathne&show_icons=true&locale=en" alt="goonarathne" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goonarathne&" alt="goonarathne" /></p>
