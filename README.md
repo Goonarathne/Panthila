@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm M. D. Panthila Amaneth Goonarathne</h1>
+
 <h3 align="center">A passionate IT Professional from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=goonarathne&label=Profile%20views&color=0e75b6&style=flat" alt="goonarathne" /> </p>
+<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goonarathne" alt="goonarathne" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=goonarathne" alt="goonarathne" />
+  </a>
+</p>
+
+<br>
+
+<p align="center" >
+  <img src="https://komarev.com/ghpvc/?username=goonarathne&label=Profile%20views&color=0e75b6&style=flat" alt="goonarathne" />
+</p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -42,7 +53,7 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center">><a href="https://www.buymeacoffee.com/buymeacoffee/goonarathne"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee/goonarathne" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee/goonarathne"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee/goonarathne" /></a></p><br><br>
 
 ---
 
